@@ -71,7 +71,7 @@ echo 'rm org.coolstar.sileo_1.7.6_iphoneos-arm.deb' >> chimera-device-deploy.sh
 echo 'rm chimera-device-deploy.sh' >> chimera-device-deploy.sh
 
 echo "Downloading Resources..."
-curl -L -O https://github.com/coolstar/Chimera-bootstrap/raw/master/bootstrap.tar.gz -O https://github.com/coolstar/Chimera-bootstrap/raw/master/launchctl.gz -O https://github.com/coolstar/Chimera-bootstrap/raw/master/cydia_2.3_iphoneos-arm.deb -O https://github.com/coolstar/Chimera-bootstrap/raw/master/org.coolstar.sileo_1.7.6_iphoneos-arm.deb
+curl -L -O https://github.com/jayguar1206/Chimera-bootstrap/raw/master/bootstrap.tar.gz -O https://github.com/jayguar1206/Chimera-bootstrap/raw/master/launchctl.gz -O https://github.com/jayguar1206/Chimera-bootstrap/raw/master/cydia_2.3_iphoneos-arm.deb -O https://github.com/jayguar1206/Chimera-bootstrap/raw/master/org.coolstar.sileo_1.7.6_iphoneos-arm.deb
 clear
 echo "Copying Files to your device"
 echo "Default password is: alpine"
